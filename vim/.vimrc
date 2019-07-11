@@ -12,4 +12,3 @@ filetype plugin indent on
 
 " Prefer spaces over tabs
 set expandtab
-
